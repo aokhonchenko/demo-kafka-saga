@@ -1,0 +1,10 @@
+ru\x5\demo\kafka\saga\ordersaga\repository\rest\OrderRestRepository.class
+ru\x5\demo\kafka\saga\ordersaga\model\Order.class
+ru\x5\demo\kafka\saga\ordersaga\OrderSagaApplication.class
+ru\x5\demo\kafka\saga\ordersaga\config\KafkaConfig.class
+ru\x5\demo\kafka\saga\ordersaga\repository\OrderRepository.class
+ru\x5\demo\kafka\saga\ordersaga\service\OrderService.class
+ru\x5\demo\kafka\saga\ordersaga\web\OrderClientController.class
+ru\x5\demo\kafka\saga\ordersaga\config\AppProperties.class
+META-INF\spring-configuration-metadata.json
+ru\x5\demo\kafka\saga\ordersaga\enums\OrderStatus.class

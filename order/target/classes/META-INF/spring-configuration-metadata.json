@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "app.kafka",
+      "type": "ru.x5.demo.kafka.saga.ordersaga.config.AppProperties",
+      "sourceType": "ru.x5.demo.kafka.saga.ordersaga.config.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.kafka.order-topic",
+      "type": "java.lang.String",
+      "sourceType": "ru.x5.demo.kafka.saga.ordersaga.config.AppProperties"
+    }
+  ],
+  "hints": []
+}

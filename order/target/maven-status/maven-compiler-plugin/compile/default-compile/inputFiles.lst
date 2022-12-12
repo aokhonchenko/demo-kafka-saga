@@ -1,0 +1,9 @@
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\config\KafkaConfig.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\OrderSagaApplication.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\repository\OrderRepository.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\repository\rest\OrderRestRepository.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\model\Order.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\enums\OrderStatus.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\web\OrderClientController.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\service\OrderService.java
+C:\_dev\x5\demo\kafka-saga-demo\order\src\main\java\ru\x5\demo\kafka\saga\ordersaga\config\AppProperties.java
