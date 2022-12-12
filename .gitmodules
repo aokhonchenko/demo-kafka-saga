@@ -1,3 +1,6 @@
 [submodule "order"]
 	path = order
 	url = git@github.com:aokhonchenko/demo-kafka-order-sub.git
+[submodule "airport"]
+	path = airport
+	url = git@github.com:aokhonchenko/demo-kafka-airport-sub.git
