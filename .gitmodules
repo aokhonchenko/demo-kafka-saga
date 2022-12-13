@@ -7,3 +7,6 @@
 [submodule "hotel"]
 	path = hotel
 	url = git@github.com:aokhonchenko/demo-kafka-hotel-sub.git
+[submodule "order"]
+	path = order
+	url = git@github.com:aokhonchenko/demo-kafka-order-sub.git
