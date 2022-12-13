@@ -11,6 +11,8 @@
     <modules>
         <module>order</module>
         <module>airport</module>
+        <module>transfer</module>
+        <module>hotel</module>
     </modules>
 
 </project>

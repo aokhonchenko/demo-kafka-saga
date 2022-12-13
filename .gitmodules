@@ -4,3 +4,9 @@
 [submodule "airport"]
 	path = airport
 	url = git@github.com:aokhonchenko/demo-kafka-airport-sub.git
+[submodule "transfer"]
+	path = transfer
+	url = git@github.com:aokhonchenko/demo-kafka-taxi-sub.git
+[submodule "hotel"]
+	path = hotel
+	url = git@github.com:aokhonchenko/demo-kafka-hotel-sub.git
